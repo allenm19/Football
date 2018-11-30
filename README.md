@@ -1,25 +1,7 @@
 <head>
 
 
-<style>
-  h1 {
-    text-align:center;
-    
-  }
 
-  #foot
-  {
-    width:50%;
-    float:left;
-    
-  }
-  #list{
-    float:left;
-    padding:10;
-    
-  }
-
-</style>
 </head>
 <body>
   <h1>The History of Football </h1>
