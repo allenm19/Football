@@ -1,4 +1,3 @@
-# Football
 <head>
 
 
@@ -19,9 +18,7 @@
     padding:10;
     
   }
-  #table{
-    
-  }
+
 </style>
 </head>
 <body>
@@ -47,7 +44,7 @@
   <li>Steelers<br>
     <br>
     </div>
-   <div id="table">
+  
      
    <table style="width:100%">
       <table border="5"
@@ -70,7 +67,9 @@
     <td>Drew</td>
     <td>Brees</td> 
     <td>452</td>
+   
   </tr>
 </table>
-   
+
    </body>
+
