@@ -10,7 +10,7 @@
   William Heffelfinger was the first professional football player for the Allegheny Athletic <br>Association. 
   In 1898 a touchdown was changed from four to five points. 1904 field goals <br>went from 5 points to 4.
    In 1912 the points scored from a touchdown increased from 5 to six.</p>
-  <img id=foot>
+  
   <img src="https://hsujacks.com/images/2018/7/16/Old_Football_Photo_BW.jpg?width=1416&height=797&mode=crop"><br>
  <div id="list">
    <br>
@@ -25,7 +25,7 @@
   <li>Eagles
   <li>Steelers<br>
     <br>
-    </div>
+    
   
      
    <table style="width:100%">
@@ -53,6 +53,5 @@
   </tr>
 </table>
 
-   </body>
-
+   
 
